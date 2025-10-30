@@ -9,3 +9,22 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.ragContainer {
+    padding: 20px;
+}
+
+hr { margin: 20px; }
+
+.ai-question{
+    width: 400px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.answerContainer {
+    margin-top: 20px;
+    background: #f0f0f0;
+    padding: 10px;
+
+}
